@@ -1,0 +1,12 @@
+Develope a multiclass image classficiation model using Convolutional Neural Network and TensorFlow API on Python
+
+The given dataset contain 5200 training images of 4 classes and 1267 testing images.
+Extract files from multiclass_datasets.rar.
+train_data_bi.npy is containing 5200 training photos with labels
+test_data_bi.npy is containing 1267 testing photos with labels.
+Classes are chair & kitchen & knife & saucepan. Classes are equal(1300 glass - 1300 kitchen - 1300 knife- 1300 saucepan) on training data.
+
+
+
+
+
